@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46468" started-at="2020-07-19T15:55:44Z" finished-at="2020-07-19T15:56:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46468" started-at="2020-07-19T15:55:44Z" finished-at="2020-07-19T15:56:31Z">
+      <class name="testcases.TC003">
+        <test-method status="PASS" signature="tcase3()[pri:0, instance:testcases.TC003@23223dd8]" name="tcase3" duration-ms="15179" started-at="2020-07-19T11:56:02Z" finished-at="2020-07-19T11:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase3 -->
+      </class> <!-- testcases.TC003 -->
+      <class name="testcases.TC002">
+        <test-method status="PASS" signature="tcase1()[pri:0, instance:testcases.TC002@4ec6a292]" name="tcase1" duration-ms="13009" started-at="2020-07-19T11:56:18Z" finished-at="2020-07-19T11:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+      </class> <!-- testcases.TC002 -->
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="tcase2()[pri:0, instance:testcases.TC001@2a18f23c]" name="tcase2" duration-ms="18253" started-at="2020-07-19T11:55:44Z" finished-at="2020-07-19T11:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase2 -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
